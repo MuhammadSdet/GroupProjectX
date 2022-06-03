@@ -4,5 +4,8 @@ public class TC_002 {
 
     // work 2 completed
 
-    // trst case finished
+    //added part 3 as requested
+
+    // test case finished
+
 }
